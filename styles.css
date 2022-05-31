@@ -138,3 +138,56 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+
+
+@media (min-width:320px ) and (max-width: 800px) {
+
+body {
+
+    width: 90vw;
+    height: 100%;
+    padding: 10px;
+    margin-left: 20px;
+} 
+
+.sec-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.balle {
+    width: 300px;
+}
+
+
+.button {
+    margin: 0 auto;
+
+}
+.title {
+    margin: 0 auto;
+}
+.link{
+    margin: 0 auto;
+    font-size: 14px;
+
+}
+.logo-header {
+    width: 50px;
+    height: 50px;
+
+
+}
+
+section {
+    padding: 20px;
+}
+
+.sub-title {
+    width: 350px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+  }

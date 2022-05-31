@@ -12,7 +12,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Criação do HTML
 - [x] Criação do CSS
-- [ ] Responsividade
+- [x] Responsividade
 
 
 ## 🤝 Colaboradores
